@@ -1,0 +1,46 @@
+1.
+-Nên chọn ứng viên B.CB(Cyber Arena) là một trung tâm phục vụ thể thao điện tử và là nơi để các tuyển thủ esport tập luyện,do đó ta cần một ứng viên lắp đặt hệ thống quay/xem lại trận đấu, cấu hình mạng livestream và nâng cấp linh kiện máy tính.
+-Cu thể:Khi máy bị lỗi màn hình xanh,hỏng chuột,rớt mạng,A không thể tháo lắp phần cứng hay bấm dây mạng nhanh và hiệu quả như B
+2.
+
+Thành phần
+Trong hệ thống quay/xem lại trận đấu 
+Input 
+Hình ảnh/video màn hình người chơi
+Process 
+Sử lý dữ liệu video 
+Output 
+Video trận đấu được phát lại trên màn hình hoặc các nền tảng mxh
+Storage 
+Lưu trữ các tệp video đã quay vào bộ nhớ của máy chủ
+
+3.
+-Dung lượng lưu trữ
+20 game x 500MB = 10000MB/1024 = 9.77 GB
+Sau 1 tháng vận hành,dung lượng còn
+512-9.77=502.2 GB
+-Tốc độ mạng
+100 Mbps / 8= 12.5 MB/s
+=>Mất tối thiểu 16 giây cho 1 video 200MB
+Thực tế thường lâu hơn dự tính thường là do nhiễu tính hiệu,đường truyền internet bị nghẽn,...
+4.1
+-Nên nâng cpu vì với các tựa game trên thị trường hiện tại,ram 16gb hoàn toàn có thể chạy tốt.Trong khi đó,vừa chơi game nặng vừa livestream sẽ phụ thuộc nhiều vào cpu.Do đó, nâng cấp CPU sẽ giải quyết triệt để tình trạng giật lag 
+4.2
+
+Cấp độ 
+Nội dung trong tình huống
+Vì sao thuộc tầng này 
+Data
+Video game,các highlight sử lý đặng cấp của người chơi
+Dữ liệu thô,các sự kiện rời rạc chưa qua sử lý hay phân tích 
+Infor
+Người chơi mắc lỗi nghiêm trọng ở thời điểm xxx
+Dữ liệu thô đã được sử lý
+Knowledge
+Nguyên nhân chết là do thằng hlv John kêu TDuyen pick Aya đi ad
+Đã hiểu được nguyên nhân
+Wisdom
+Đổi hlv
+Quyết định hành động sáng suốt nhằm sửa sai 
+
+
